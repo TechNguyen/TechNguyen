@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nguyen Duc Thang!<br>🔭 I’m currently 2nd year student and studying in Hanoi University of Industry<br>🔭 I’m currently working on FPT securities<br>👯 I’m looking to collaborate on Freelance<br>🌱 I’m currently learning .NET<br>📫 How to reach me ndt13102003@gmail.com<br>💬 Ask me about JS<br>⚡ Fun fact HTMLCSS child
+Hi, I'm Nguyen Duc Thang!<br>🔭 I’m currently 3nd year student and studying in Hanoi University of Industry<br>🔭 I’m currently working on Hinet<br>👯 I’m looking to collaborate on Freelance<br>🌱 I’m coding lỏ<br>📫 How to reach me ndt13102003@gmail.com<br>💬 Ask me about JS<br>⚡ Fun fact HTMLCSS child
 
 
 ## 🌐 Socials:
